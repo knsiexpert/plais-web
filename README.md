@@ -138,4 +138,5 @@ Wraz z nowym rokiem nastąpiła zmiana składu osób pracujących nad projektem.
 	- Usunięcie odnośnników do biuletynów ``` Mateusz Kusiak ```
 	- Dodanie sktyptów (php/js) tworzących formularz typu select i obsługujących go, otwarcie wskazanego biuletynu. ``` Mateusz Kusiak ```
 	- Dodanie skryptu php, na bezpośredni odnośnik do najnowszego biuletynu. ``` Mateusz Kusiak ```
+	- zmiana template-u biuletynów (od nr. 100) ``` Mateusz Kusiak ```
 
