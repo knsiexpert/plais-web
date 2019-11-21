@@ -133,7 +133,7 @@ Wraz z nowym rokiem nastąpiła zmiana składu osób pracujących nad projektem.
 -----------------------------------------------------
 21.11.2019r.
 -----------------------------------------------------
-- Modyfikacja struktury plików biuletynów (usunięcie zbęnych folderów). ``` Mateusz Kusiak ```
+- Modyfikacja struktury plików (m.in. usunięcie zbęnych folderów). ``` Mateusz Kusiak ```
 - Modyfikacja storny z biuletynami:
 	- Usunięcie odnośnników do biuletynów ``` Mateusz Kusiak ```
 	- Dodanie sktyptów (php/js) tworzących formularz typu select i obsługujących go, otwarcie wskazanego biuletynu. ``` Mateusz Kusiak ```
