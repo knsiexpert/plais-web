@@ -1,6 +1,3 @@
-- ```NAJBLIŻSZE SPOTKANIE: Po sesji najszybciej```
-- ```DEADLINE DLA FRONT-ENDU: 31.01.2019r.``` ```UKOŃCZONE 22.12.2018r.```
-- ```DEADLINE DLA BACK-ENDU: Koniec II semestru```
 # plais.org
 Strona THE POLISH CHAPTER OF ASSOCIATION FOR INFORMATION SYSTEMS – PLAIS
 
@@ -105,7 +102,6 @@ I jeśli ktoś będzie miał jakieś pytania, to jestem na fejsie praktycznie 24
 - Wiele innych poprawek. ```Łukasz Szafrański```
 -----------------------------------------------------
 # BACK-END:
------------------------------------------------------
 
 Na samym początku ta strona nie miała mieć żadnego back-endu, ale możemy spróbować zrobić panel administracyjny, z możliwością zmiany całej zawartości prosto ze strony internetowej, zamiast z html'a.
 
@@ -130,6 +126,16 @@ Na samym początku ta strona nie miała mieć żadnego back-endu, ale możemy sp
 - administrationPanel.html + signin.css ```Łukasz Szafrański```
 
 -----------------------------------------------------
-# Zmiana składu, repozytoria oraz poprawki w w międzyczasie 
+# Zmiana składu i repozytorium
+
+Wraz z nowym rokiem nastąpiła zmiana składu osób pracujących nad projektem. Projekt zostaje przeniesiony na główne repozytorium koła. Stare repozytorium: https://github.com/lukaszszafranski/plais.org-1
+
 -----------------------------------------------------
-- administrationPanel.html + signin.css ```Łukasz Szafrański```
+21.11.2019r.
+-----------------------------------------------------
+- Modyfikacja struktury plików biuletynów (usunięcie zbęnych folderów). ``` Mateusz Kusiak ```
+- Modyfikacja storny z biuletynami:
+	- Usunięcie odnośnników do biuletynów ``` Mateusz Kusiak ```
+	- Dodanie sktyptów (php/js) tworzących formularz typu select i obsługujących go, otwarcie wskazanego biuletynu. ``` Mateusz Kusiak ```
+	- Dodanie skryptu php, na bezpośredni odnośnik do najnowszego biuletynu. ``` Mateusz Kusiak ```
+
