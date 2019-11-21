@@ -1,0 +1,13 @@
+.EBoard
+{
+    border: 4px solid #3c67e7;
+    border-radius: 6px;
+    padding: 5px;
+    margin: 5px;
+    width: 900px;
+    height: 200px;
+}
+.info
+{
+    padding-left: 170px;
+}
